@@ -6,3 +6,5 @@
 
 wow, nice text
 one more text
+
+new text for example
