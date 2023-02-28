@@ -7,4 +7,4 @@
 wow, nice text
 one more text
 
-new info
+master text insert
